@@ -1,7 +1,7 @@
 /**
  *   @author Sean Stock (sstock6829@gmail.com)
  *   @version 0.0.1
- *   @summary Project 2 Looping Logic || created: 10.2.17
+ *   @summary Project 3 Looping Logic || created: 10.2.17
  *   @todo Prompt user to rate movies until the user decides to quit
  */
 
